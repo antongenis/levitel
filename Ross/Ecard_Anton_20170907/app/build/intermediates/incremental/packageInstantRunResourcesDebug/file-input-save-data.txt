@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Sep 13 09:55:01 IDT 2017
+2.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/assets/debug
+5.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/drawable/card1.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/drawable/buttonshap.xml
+2.set=ASSET
+10.set=ANDROID_RESOURCE
+10.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/layout/licagreement.xml
+4.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/drawable/backgroundv2.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/drawable/csn.png
+5.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/layout/floatactivity.xml
+10.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/assets/debug/LIC.txt
+6.set=ANDROID_RESOURCE
+0.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/res/resources-debug.ap_/res/xml/aid_list.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

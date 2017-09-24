@@ -1,0 +1,256 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* android/
+* android/support/
+* android/support/v4/
+* android/support/v4/accessibilityservice/
+* android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat.java
+* android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatIcs.java
+* android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatJellyBeanMr2.java
+* android/support/v4/app/
+* android/support/v4/app/ActionBarDrawerToggle.java
+* android/support/v4/app/ActionBarDrawerToggleHoneycomb.java
+* android/support/v4/app/ActivityCompat.java
+* android/support/v4/app/ActivityCompatHoneycomb.java
+* android/support/v4/app/ActivityCompatJB.java
+* android/support/v4/app/ActivityOptionsCompat.java
+* android/support/v4/app/ActivityOptionsCompatJB.java
+* android/support/v4/app/BackStackRecord.java
+* android/support/v4/app/BackStackState.java
+* android/support/v4/app/DialogFragment.java
+* android/support/v4/app/Fragment.java
+* android/support/v4/app/FragmentActivity.java
+* android/support/v4/app/FragmentContainer.java
+* android/support/v4/app/FragmentManager.java
+* android/support/v4/app/FragmentManagerImpl.java
+* android/support/v4/app/FragmentManagerState.java
+* android/support/v4/app/FragmentPagerAdapter.java
+* android/support/v4/app/FragmentState.java
+* android/support/v4/app/FragmentStatePagerAdapter.java
+* android/support/v4/app/FragmentTabHost.java
+* android/support/v4/app/FragmentTransaction.java
+* android/support/v4/app/ListFragment.java
+* android/support/v4/app/LoaderManager.java
+* android/support/v4/app/LoaderManagerImpl.java
+* android/support/v4/app/NavUtils.java
+* android/support/v4/app/NavUtilsJB.java
+* android/support/v4/app/NoSaveStateFrameLayout.java
+* android/support/v4/app/NotificationCompat.java
+* android/support/v4/app/NotificationCompatHoneycomb.java
+* android/support/v4/app/NotificationCompatIceCreamSandwich.java
+* android/support/v4/app/NotificationCompatJellybean.java
+* android/support/v4/app/ServiceCompat.java
+* android/support/v4/app/ShareCompat.java
+* android/support/v4/app/ShareCompatICS.java
+* android/support/v4/app/ShareCompatJB.java
+* android/support/v4/app/SuperNotCalledException.java
+* android/support/v4/app/TaskStackBuilder.java
+* android/support/v4/app/TaskStackBuilderHoneycomb.java
+* android/support/v4/app/TaskStackBuilderJellybean.java
+* android/support/v4/content/
+* android/support/v4/content/AsyncTaskLoader.java
+* android/support/v4/content/ContextCompat.java
+* android/support/v4/content/ContextCompatFroyo.java
+* android/support/v4/content/ContextCompatHoneycomb.java
+* android/support/v4/content/ContextCompatJellybean.java
+* android/support/v4/content/ContextCompatKitKat.java
+* android/support/v4/content/CursorLoader.java
+* android/support/v4/content/FileProvider.java
+* android/support/v4/content/IntentCompat.java
+* android/support/v4/content/IntentCompatHoneycomb.java
+* android/support/v4/content/IntentCompatIcsMr1.java
+* android/support/v4/content/Loader.java
+* android/support/v4/content/LocalBroadcastManager.java
+* android/support/v4/content/ModernAsyncTask.java
+* android/support/v4/content/WakefulBroadcastReceiver.java
+* android/support/v4/content/pm/
+* android/support/v4/content/pm/ActivityInfoCompat.java
+* android/support/v4/database/
+* android/support/v4/database/DatabaseUtilsCompat.java
+* android/support/v4/graphics/
+* android/support/v4/graphics/drawable/
+* android/support/v4/graphics/drawable/DrawableCompat.java
+* android/support/v4/graphics/drawable/DrawableCompatHoneycomb.java
+* android/support/v4/graphics/drawable/DrawableCompatKitKat.java
+* android/support/v4/hardware/
+* android/support/v4/hardware/display/
+* android/support/v4/hardware/display/DisplayManagerCompat.java
+* android/support/v4/hardware/display/DisplayManagerJellybeanMr1.java
+* android/support/v4/internal/
+* android/support/v4/internal/view/
+* android/support/v4/internal/view/SupportMenu.java
+* android/support/v4/internal/view/SupportMenuItem.java
+* android/support/v4/internal/view/SupportSubMenu.java
+* android/support/v4/media/
+* android/support/v4/media/TransportController.java
+* android/support/v4/media/TransportMediator.java
+* android/support/v4/media/TransportMediatorCallback.java
+* android/support/v4/media/TransportMediatorJellybeanMR2.java
+* android/support/v4/media/TransportPerformer.java
+* android/support/v4/media/TransportStateListener.java
+* android/support/v4/net/
+* android/support/v4/net/ConnectivityManagerCompat.java
+* android/support/v4/net/ConnectivityManagerCompatGingerbread.java
+* android/support/v4/net/ConnectivityManagerCompatHoneycombMR2.java
+* android/support/v4/net/ConnectivityManagerCompatJellyBean.java
+* android/support/v4/net/TrafficStatsCompat.java
+* android/support/v4/net/TrafficStatsCompatIcs.java
+* android/support/v4/os/
+* android/support/v4/os/EnvironmentCompat.java
+* android/support/v4/os/EnvironmentCompatKitKat.java
+* android/support/v4/os/ParcelableCompat.java
+* android/support/v4/os/ParcelableCompatCreatorCallbacks.java
+* android/support/v4/os/ParcelableCompatCreatorHoneycombMR2.java
+* android/support/v4/os/ParcelableCompatCreatorHoneycombMR2Stub.java
+* android/support/v4/print/
+* android/support/v4/print/PrintHelper.java
+* android/support/v4/print/PrintHelperKitkat.java
+* android/support/v4/text/
+* android/support/v4/text/BidiFormatter.java
+* android/support/v4/text/ICUCompat.java
+* android/support/v4/text/ICUCompatIcs.java
+* android/support/v4/text/TextDirectionHeuristicCompat.java
+* android/support/v4/text/TextDirectionHeuristicsCompat.java
+* android/support/v4/text/TextUtilsCompat.java
+* android/support/v4/util/
+* android/support/v4/util/ArrayMap.java
+* android/support/v4/util/AtomicFile.java
+* android/support/v4/util/ContainerHelpers.java
+* android/support/v4/util/DebugUtils.java
+* android/support/v4/util/LogWriter.java
+* android/support/v4/util/LongSparseArray.java
+* android/support/v4/util/LruCache.java
+* android/support/v4/util/MapCollections.java
+* android/support/v4/util/SimpleArrayMap.java
+* android/support/v4/util/SparseArrayCompat.java
+* android/support/v4/util/TimeUtils.java
+* android/support/v4/view/
+* android/support/v4/view/AccessibilityDelegateCompat.java
+* android/support/v4/view/AccessibilityDelegateCompatIcs.java
+* android/support/v4/view/AccessibilityDelegateCompatJellyBean.java
+* android/support/v4/view/ActionProvider.java
+* android/support/v4/view/GestureDetectorCompat.java
+* android/support/v4/view/GravityCompat.java
+* android/support/v4/view/GravityCompatJellybeanMr1.java
+* android/support/v4/view/KeyEventCompat.java
+* android/support/v4/view/KeyEventCompatEclair.java
+* android/support/v4/view/KeyEventCompatHoneycomb.java
+* android/support/v4/view/MarginLayoutParamsCompat.java
+* android/support/v4/view/MarginLayoutParamsCompatJellybeanMr1.java
+* android/support/v4/view/MenuCompat.java
+* android/support/v4/view/MenuItemCompat.java
+* android/support/v4/view/MenuItemCompatHoneycomb.java
+* android/support/v4/view/MenuItemCompatIcs.java
+* android/support/v4/view/MotionEventCompat.java
+* android/support/v4/view/MotionEventCompatEclair.java
+* android/support/v4/view/PagerAdapter.java
+* android/support/v4/view/PagerTabStrip.java
+* android/support/v4/view/PagerTitleStrip.java
+* android/support/v4/view/PagerTitleStripIcs.java
+* android/support/v4/view/ScaleGestureDetectorCompat.java
+* android/support/v4/view/ScaleGestureDetectorCompatKitKat.java
+* android/support/v4/view/VelocityTrackerCompat.java
+* android/support/v4/view/VelocityTrackerCompatHoneycomb.java
+* android/support/v4/view/ViewCompat.java
+* android/support/v4/view/ViewCompatEclairMr1.java
+* android/support/v4/view/ViewCompatGingerbread.java
+* android/support/v4/view/ViewCompatHC.java
+* android/support/v4/view/ViewCompatICS.java
+* android/support/v4/view/ViewCompatJB.java
+* android/support/v4/view/ViewCompatJellybeanMr1.java
+* android/support/v4/view/ViewCompatKitKat.java
+* android/support/v4/view/ViewConfigurationCompat.java
+* android/support/v4/view/ViewConfigurationCompatFroyo.java
+* android/support/v4/view/ViewGroupCompat.java
+* android/support/v4/view/ViewGroupCompatHC.java
+* android/support/v4/view/ViewGroupCompatIcs.java
+* android/support/v4/view/ViewGroupCompatJellybeanMR2.java
+* android/support/v4/view/ViewPager.java
+* android/support/v4/view/ViewParentCompat.java
+* android/support/v4/view/ViewParentCompatICS.java
+* android/support/v4/view/WindowCompat.java
+* android/support/v4/view/accessibility/
+* android/support/v4/view/accessibility/AccessibilityEventCompat.java
+* android/support/v4/view/accessibility/AccessibilityEventCompatIcs.java
+* android/support/v4/view/accessibility/AccessibilityManagerCompat.java
+* android/support/v4/view/accessibility/AccessibilityManagerCompatIcs.java
+* android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.java
+* android/support/v4/view/accessibility/AccessibilityNodeInfoCompatIcs.java
+* android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellyBean.java
+* android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellybeanMr2.java
+* android/support/v4/view/accessibility/AccessibilityNodeInfoCompatKitKat.java
+* android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.java
+* android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean.java
+* android/support/v4/view/accessibility/AccessibilityNodeProviderCompatKitKat.java
+* android/support/v4/view/accessibility/AccessibilityRecordCompat.java
+* android/support/v4/view/accessibility/AccessibilityRecordCompatIcs.java
+* android/support/v4/view/accessibility/AccessibilityRecordCompatIcsMr1.java
+* android/support/v4/view/accessibility/AccessibilityRecordCompatJellyBean.java
+* android/support/v4/widget/
+* android/support/v4/widget/AutoScrollHelper.java
+* android/support/v4/widget/ContentLoadingProgressBar.java
+* android/support/v4/widget/CursorAdapter.java
+* android/support/v4/widget/CursorFilter.java
+* android/support/v4/widget/DrawerLayout.java
+* android/support/v4/widget/EdgeEffectCompat.java
+* android/support/v4/widget/EdgeEffectCompatIcs.java
+* android/support/v4/widget/ExploreByTouchHelper.java
+* android/support/v4/widget/ListPopupWindowCompat.java
+* android/support/v4/widget/ListPopupWindowCompatKitKat.java
+* android/support/v4/widget/ListViewAutoScrollHelper.java
+* android/support/v4/widget/PopupMenuCompat.java
+* android/support/v4/widget/PopupMenuCompatKitKat.java
+* android/support/v4/widget/ResourceCursorAdapter.java
+* android/support/v4/widget/ScrollerCompat.java
+* android/support/v4/widget/ScrollerCompatGingerbread.java
+* android/support/v4/widget/ScrollerCompatIcs.java
+* android/support/v4/widget/SearchViewCompat.java
+* android/support/v4/widget/SearchViewCompatHoneycomb.java
+* android/support/v4/widget/SearchViewCompatIcs.java
+* android/support/v4/widget/SimpleCursorAdapter.java
+* android/support/v4/widget/SlidingPaneLayout.java
+* android/support/v4/widget/ViewDragHelper.java
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

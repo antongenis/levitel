@@ -1,0 +1,4 @@
+#Wed Sep 13 09:55:13 IDT 2017
+base.0=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

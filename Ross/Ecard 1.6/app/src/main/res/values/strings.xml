@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Card</string>
+    <string name="sample_show_log">Show</string>
+    <string name="sample_hide_log">Hide</string>
+    <string name="b_return">Return</string>
+    <string name="b_exit">Exit</string>
+    <string name="b_about">About</string>
+    <string name="b_register">Register</string>
+    <string name="card_title">NFC Card</string>
+    <string name="imei_name">Number</string>
+    <string name="account_name">Account Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="service_name">service_name</string>
+    <string name="tip_nfc_notfound">No NFC device</string>
+    <string name="tip_nfc_disabled">Please turn on NFC</string>
+    <string name="tip_nfc_enabled"></string>
+</resources>

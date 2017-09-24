@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 2.3.2">
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type layout"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="        setContentView(0x7f030004);"
+        errorLine2="                       ~~~~~~~~~~">
+        <location
+            file="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/java/com/ecard/android/cardemulation/FloatActivity.java"
+            line="36"
+            column="24"/>
+    </issue>
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type id"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="  this.imei_num = ((TextView) findViewById(2131230731));"
+        errorLine2="                                           ~~~~~~~~~~">
+        <location
+            file="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/java/com/ecard/android/cardemulation/FloatActivity.java"
+            line="63"
+            column="44"/>
+    </issue>
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type layout"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1=" setContentView(2130903043);"
+        errorLine2="                ~~~~~~~~~~">
+        <location
+            file="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/java/com/ecard/android/cardemulation/LicAgreement.java"
+            line="17"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type id"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1=" TextView busDetailContent=(TextView)findViewById(2131230737);"
+        errorLine2="                                                  ~~~~~~~~~~">
+        <location
+            file="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/java/com/ecard/android/cardemulation/LicAgreement.java"
+            line="18"
+            column="51"/>
+    </issue>
+
+</issues>

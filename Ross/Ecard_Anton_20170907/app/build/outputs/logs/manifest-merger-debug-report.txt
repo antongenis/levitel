@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:2:61-102
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:2:35-60
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:2:11-34
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:3:3-61
+uses-sdk
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:4:5-74
+	android:targetSdkVersion
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:4:42-71
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:4:15-41
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.nfc.hce
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:5:5-85
+	android:required
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:5:59-82
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:5:19-58
+uses-permission#android.permission.NFC
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:6:5-62
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:6:22-59
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:8:22-81
+application
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:10:5-32:19
+	android:label
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:10:18-50
+	android:allowBackup
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:10:80-106
+	android:icon
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:10:51-79
+activity#com.ecard.android.cardemulation.FloatActivity
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:11:10-21:20
+	android:theme
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:11:50-92
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:11:20-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:13:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:17:27-74
+service#com.ecard.android.cardemulation.CardService
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:24:103-126
+	android:permission
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:24:46-102
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:24:18-45
+intent-filter#android.intent.category.DEFAULT+android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:26:17-93
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:26:25-90
+category#android.intent.category.DEFAULT
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:27:27-73
+meta-data#android.nfc.cardemulation.host_apdu_service
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:29:13-118
+	android:resource
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:29:83-115
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:29:24-82
+activity#com.ecard.android.cardemulation.LicAgreement
+ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from /Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/AndroidManifest.xml:31:19-47

@@ -1,0 +1,4 @@
+#Fri Sep 22 14:04:24 IDT 2017
+base.0=/Users/antongenis/Projects/Ross/Ecard 1.6/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/antongenis/Projects/Ross/Ecard 1.6/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/assets"><file name="LIC.txt" path="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/main/assets/LIC.txt"/></source><source path="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/src/debug/assets"/></dataSet></merger>

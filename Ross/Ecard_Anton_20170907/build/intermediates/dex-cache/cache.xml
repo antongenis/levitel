@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9077126eac813d54313b9edb60392cbeb84b6a2">
+        <dex dex="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c1dcf803033de117bae3b7eb3570f4f0855c82e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antongenis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_12f9d19c9c092889fae5490306df81a2d3674980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac4a82f59132f7b1c21f4a2756326657eac7198d/classes.dex" />
+    </item>
+
+</items>

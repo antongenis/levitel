@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/build/intermediates/res/merged/debug/drawable-480dpi/nfc_clientxxxhdpi.png",
+        "source": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/src/main/res/drawable-480dpi/nfc_clientxxxhdpi.png"
+    },
+    {
+        "merged": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/build/intermediates/res/merged/debug/drawable-480dpi/csn.png",
+        "source": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/src/main/res/drawable-480dpi/csn.png"
+    },
+    {
+        "merged": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/build/intermediates/res/merged/debug/drawable-480dpi/card1.png",
+        "source": "/Users/antongenis/Projects/Ross/Ecard 1.6/app/src/main/res/drawable-480dpi/card1.png"
+    }
+]

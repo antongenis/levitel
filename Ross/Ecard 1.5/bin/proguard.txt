@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.ecard.android.cardemulation.CardService { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.ecard.android.cardemulation.FloatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.ecard.android.cardemulation.LicAgreement { <init>(...); }
+

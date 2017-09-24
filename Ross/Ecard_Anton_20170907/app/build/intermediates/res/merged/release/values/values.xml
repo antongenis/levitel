@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64.0dip</dimen>
+    <dimen name="margin_large">32.0dip</dimen>
+    <dimen name="margin_medium">16.0dip</dimen>
+    <dimen name="margin_small">8.0dip</dimen>
+    <dimen name="margin_tiny">4.0dip</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <item name="EULAbutton" type="id">false</item>
+    <item name="LIC" type="id">false</item>
+    <item name="closebutton" type="id">false</item>
+    <item name="setNFC" type="id">false</item>
+    <item name="t_imei_name" type="id">false</item>
+    <item name="t_imei_number" type="id">false</item>
+    <string name="account_name">Account Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="app_name">E-Card</string>
+    <string name="b_about">About</string>
+    <string name="b_exit">Exit</string>
+    <string name="b_register">Register</string>
+    <string name="b_return">Return</string>
+    <string name="card_title">NFC Card</string>
+    <string name="imei_name">Number</string>
+    <string name="sample_hide_log">Hide</string>
+    <string name="sample_show_log">Show</string>
+    <string name="service_name">service_name</string>
+    <string name="tip_nfc_disabled">Please turn on NFC</string>
+    <string name="tip_nfc_enabled"/>
+    <string name="tip_nfc_notfound">No NFC device</string>
+    <style name="Theme.FloatActivity" parent="android:style/Theme.Dialog">
+
+                <!-- float_box为我们定义的窗口背景-->
+
+              <!--  <item name="android:windowBackground">@drawable/float_box</item> --> 
+
+        </style>
+</resources>

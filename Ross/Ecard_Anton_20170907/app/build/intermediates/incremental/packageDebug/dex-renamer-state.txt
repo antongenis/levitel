@@ -1,0 +1,7 @@
+#Wed Sep 13 09:55:14 IDT 2017
+base.0=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c1dcf803033de117bae3b7eb3570f4f0855c82e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac4a82f59132f7b1c21f4a2756326657eac7198d/classes.dex
+base.1=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac4a82f59132f7b1c21f4a2756326657eac7198d
+file.0=/Users/antongenis/Projects/Ross/Ecard_Anton_20170907/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c1dcf803033de117bae3b7eb3570f4f0855c82e/classes.dex
